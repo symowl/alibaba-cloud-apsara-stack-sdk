@@ -1,0 +1,8 @@
+[build-system]
+build-backend = "flit_core.buildapi"
+requires = ["flit-core"]
+
+[project]
+dependencies = ["aliyun-python-sdk-core-v3"]
+dynamic = ["description", "version"]
+name = "aliyunsdkasapi"
