@@ -2,7 +2,9 @@
 
 [简体中文](README-zh-Hans.md)
 
-- Package Name: aliyunsdkasapi
+- Official introduction: https://help.aliyun.com/apsara/enterprise.html
+
+- Package Name: algiyunsdkasapi
 
 ## Upgrade pip
 
