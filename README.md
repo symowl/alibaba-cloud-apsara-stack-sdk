@@ -7,7 +7,7 @@
 ## Upgrade pip
 
 ``` sh
-python3 -m pip install -U pip
+python -m pip install -U pip
 ```
 
 ## Install this package
