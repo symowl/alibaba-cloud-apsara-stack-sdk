@@ -4,7 +4,7 @@
 
 - 官方介绍: https://help.aliyun.com/apsara/enterprise.html
 
-- 软件包名: aliyunsdkasapi
+- 软件包名: `aliyunsdkasapi`
 
 ## 升级 pip
 

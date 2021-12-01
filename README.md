@@ -4,7 +4,7 @@
 
 - Official introduction: https://help.aliyun.com/apsara/enterprise.html
 
-- Package name: aliyunsdkasapi
+- Package name: `aliyunsdkasapi`
 
 ## Upgrade pip
 
