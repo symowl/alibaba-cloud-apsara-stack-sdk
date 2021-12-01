@@ -1,16 +1,10 @@
-# 阿里云专有云 SDK
+# 阿里云专有云软件开发工具包
 
 [English](README.md)
 
 - 官方介绍: https://help.aliyun.com/apsara/enterprise.html
 
 - 软件包名: `aliyunsdkasapi`
-
-## 升级 pip
-
-``` sh
-python -m pip install -U pip
-```
 
 ## 安装包
 

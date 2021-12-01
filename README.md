@@ -6,12 +6,6 @@
 
 - Package name: `aliyunsdkasapi`
 
-## Upgrade pip
-
-``` sh
-python -m pip install -U pip
-```
-
 ## Install this package
 
 ``` sh
