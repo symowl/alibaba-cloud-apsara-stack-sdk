@@ -1,7 +1,5 @@
 # Alibaba Cloud Apsara Stack SDK
 
-[简体中文](README-zh-Hans.md)
-
 - Official introduction: https://help.aliyun.com/apsara/enterprise.html
 
 - Package name: `aliyunsdkasapi`
