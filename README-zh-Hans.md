@@ -1,22 +1,22 @@
-# Alibaba Cloud Apsara Stack SDK
+# 阿里云专有云 SDK
 
-[简体中文](README-zh-Hans.md)
+[English](README.md)
 
-- Package Name: aliyunsdkasapi
+- 包名: aliyunsdkasapi
 
-## Upgrade pip
+## 升级 pip
 
 ``` sh
 python3 -m pip install -U pip
 ```
 
-## Install this package
+## 安装包
 
 ``` sh
 pip install git+https://github.com/symowl/alibaba-cloud-apsara-stack-sdk.git@v2.4.7
 ```
 
-> If getting this package from GitHub is slow. You can try this command to get.
+> 如果从 GitHub 获取缓慢，可以尝试用此命令获取。
 
 ``` sh
 pip install git+https://gitee.com/symowl/alibaba-cloud-apsara-stack-sdk.git@v2.4.7
