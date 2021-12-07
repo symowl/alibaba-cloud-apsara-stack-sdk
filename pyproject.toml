@@ -3,6 +3,13 @@ build-backend = "flit_core.buildapi"
 requires = ["flit-core"]
 
 [project]
+classifiers = ["License :: OSI Approved :: Apache Software License"]
 dependencies = ["aliyun-python-sdk-core-v3"]
 dynamic = ["description", "version"]
 name = "aliyunsdkasapi"
+readme = "README.md"
+requires-python = ">=3.6"
+
+[project.urls]
+Source = "https://help.aliyun.com/apsara/enterprise.html"
+"源代码" = "https://help.aliyun.com/apsara/enterprise.html"
